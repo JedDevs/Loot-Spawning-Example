@@ -1,0 +1,137 @@
+{
+    "workbench.tree.indent": 20,
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.iconTheme": "eq-material-theme-icons-light",
+    "vsicons.associations.files": [
+        {
+            "icon": "lua_server",
+            "extensions": ["server.lua"],
+            "format": "png"
+        },
+        {
+            "icon": "lua_client",
+            "extensions": ["client.lua"],
+            "format": "png"
+        },
+        {
+            "icon": "lua_module",
+            "extensions": ["lua"],
+            "format": "png"
+        },
+        {
+            "icon": "studio",
+            "extensions": ["rbxlx", "rbxl"],
+            "format": "png"
+        },
+        {
+            "icon": "studiolocked",
+            "extensions": ["rbxlx.lock", "rbxl.lock"],
+            "format": "png"
+        },
+        {
+            "icon": "square",
+            "extensions": ["meta.json"],
+            "format": "png"
+        },
+        {
+            "icon": "gear",
+            "extensions": ["project.json"],
+            "format": "png"
+        },
+        {
+            "icon": "information",
+            "extensions": ["md"],
+            "format": "png"
+        },
+        {
+            "icon": "bullet",
+            "extensions": [".gitignore"],
+            "format": "png"
+        },
+        {
+            "icon": "model",
+            "extensions": ["model.json"],
+            "format": "png"
+        },
+    ],
+    "vsicons.associations.folders": [
+        {
+            "icon": "layer",
+            "extensions": ["src"],
+            "format": "png"
+        },
+        {
+            "icon": "game",
+            "extensions": ["workspace"],
+            "format": "png"
+        },
+        {
+            "icon": "serverscriptservice",
+            "extensions": ["ServerScriptService"],
+            "format": "png"
+        },
+        {
+            "icon": "serverstorage",
+            "extensions": ["ServerStorage"],
+            "format": "png"
+        },
+        {
+            "icon": "replicatedstorage",
+            "extensions": ["ReplicatedStorage"],
+            "format": "png"
+        },
+        {
+            "icon": "replicatedfirst",
+            "extensions": ["ReplicatedFirst"],
+            "format": "png"
+        },
+        {
+            "icon": "startergui",
+            "extensions": ["StarterGui"],
+            "format": "png"
+        },
+        {
+            "icon": "starterpack",
+            "extensions": ["StarterPack"],
+            "format": "png"
+        },
+        {
+            "icon": "starterplayer",
+            "extensions": ["StarterPlayer"],
+            "format": "png"
+        },
+        {
+            "icon": "starterscripts",
+            "extensions": ["StarterPlayerScripts"],
+            "format": "png"
+        },
+        {
+            "icon": "starterscripts",
+            "extensions": ["StarterCharacterScripts"],
+            "format": "png"
+        },
+        {
+            "icon": "studio",
+            "extensions": ["client", "server"],
+            "format": "png"
+        },
+        {
+            "icon": "bulb",
+            "extensions": ["Lighting"],
+            "format": "png"
+        },
+        //VS Code workaround [BloopVille specific]
+        {
+            "icon": "replicatedfirst",
+            "extensions": ["Startup"],
+            "format": "png"
+        }
+    ],
+    "vsicons.associations.folderDefault.folder": {
+        "icon": "studio",
+        "format": "png"
+    },
+    "fontshortcuts.defaultFontSize": 22.5,
+    "fontshortcuts.defaultTerminalFontSize": 15,
+    "fontshortcuts.step": 1
+}
